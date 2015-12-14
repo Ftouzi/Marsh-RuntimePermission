@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Marsh Permission</string>
+    <string name="action_request">This is a sample to demonstrate a simple implementation for requesting permission at runtime.\n\n
+    Please click the button below to request the Camera permission and open the camera preview.</string>
+    <string name="camera_unavailable_text">Camera could not be opened.\nThis occurs when the camera is not available, it could be already in use or if
+        the system has denied access.</string>
+    <string name="permission_available">Camera permission is available. Starting preview.</string>
+    <string name="permission_required">Camera access is required to display the camera preview.</string>
+    <string name="request_permission">Permission is not available. Requesting camera permission.</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted">Camera permission was granted. Starting preview.</string>
+    <string name="permission_denied">Camera permission request was denied.</string>
+    <string name="camera_pressed">Camera button is pressed</string>
+    <string name="camera_unavailable">Camera is not available.</string>
+
+</resources>
